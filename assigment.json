@@ -1,0 +1,181 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Trang điểm" 
+        },
+        {
+            "id": 2,
+            "name": "Chăm sóc da"
+        },
+        {
+            "id": 3,
+            "name": "Chăm sóc tóc"
+        },
+        {
+            "id": 4,
+            "name": "Nước hoa"
+        },
+        {
+            "id": 5,
+            "name": "Chăm sóc toàn thân"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Son Merzy V6",
+            "cate_id": 1,
+            "price": 230000,
+            "detail": "Son Kem Lì, Bền Màu, Lâu Trôi Merzy The First Velvet Tint là son kem lì đến từ thương hiệu Merzy. Phiên bản Holiday chủ đạo mùa lễ hội có thiết kế bắt mắt, sang trọng và hợp xu hướng có tên gọi V6 SIREN và vỏ son được lấy từ hình tượng Mỹ Nhân Ngư lan tỏa vẻ đẹp nữ tính, quyến rũ và sự tự tin đến mọi cô gái. Đây cũng là phiên bản thứ 5 của Merzy V6 với slogan huyền thoại \" THE LEGEND OF RED \"  ",
+            "image": "../images/products/sonmerzyv6.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Son Black Rouge a12",
+            "cate_id": 1,
+            "price": 250000,
+            "detail": "Son Kem Lì Hàn Quốc Black Rouge Air Fit Velvet Tint thuộc dòng son kem của thương hiệu Black Rouge với chất son velvet tint mịn lì, trơn mượt trên môi quen thuộc, son có kết cấu dễ tán với đầu cọ tiên tiến, lớp finish để lại lớp tint nhẹ và set lì nhanh chóng mà không gây khô môi hay nặng môi nhưng vẫn đủ độ lì tạo nên một bờ môi căng mọng. ",
+            "image": "../images/products/sonbl12.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Kem chống nắng Skin Aqua",
+            "cate_id": 2,
+            "price": 219000,
+            "detail": "-  Skin Aqua Tone Up UV Essence chiết xuất từ Vitamin C, Chanh Dây, Mận giúp làm sáng da, chống oxy hoá, làm dịu và tái tạo da khi bị tác động của tia UVA & UVB. . Ngoài ra còn bổ sung Hyaluronic Acid giúp giữ nước cho da.",
+            "image": "../images/products/kcnskinaqua.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Sửa rữa mặt Hadalabo ",
+            "cate_id": 2,
+            "price": 130000,
+            "detail": "Kem Rửa Mặt Hada Labo Sạch Sâu Dưỡng Ẩm Da 80g là sản phẩm sữa rửa mặt nằm trong dòng dưỡng ẩm Advanced Nourish của Hada Labo, với kết cấu dạng kem tạo bọt mịn, nhẹ nhàng len lỏi sâu vào lỗ chân lông để loại bỏ bụi bẩn & bã nhờn, đồng thời kết hợp hệ dưỡng ẩm sâu HA, SHA, Nano HA giúp cung cấp độ ẩm cho da luôn ẩm mượt và sáng mịn, tươi trẻ mỗi ngày.            ",
+            "image": "../images/products/srmhadalabo.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Dầu gội cocoon",
+            "cate_id": 3,
+            "price": 230000,
+            "detail": "Dầu Gội Bưởi Cocoon là sản phẩm dầu gội thuần chay đến từ thương hiệu mỹ phẩm Cocoon, với chiết xuất từ tinh dầu vỏ bưởi Việt Nam truyền thống kết hợp với vitamin B5, hoạt chất dưỡng ẩm Xylishine™ cùng công thức dịu nhẹ không chứa sulfate, dầu gội bưởi giúp làm sạch tóc và giảm gãy rụng, mang lại mái tóc đen dày, chắc khoẻ và mượt mà ",
+            "image": "../images/products/daugoicocoon.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Dầu gội Tsubaki",
+            "cate_id": 3,
+            "price": 180000,
+            "detail": "TSUBAKI Premium Shampoo là dòng sản phẩm dầu gội cao cấp của thương hiệu TSUBAKI (thuộc tập đoàn Shiseido Nhật Bản), được ứng dụng công nghệ thẩm thấu độc quyền của Shiseido giúp dưỡng chất hấp thu nhanh và sâu vào trong lõi tóc, nuôi dưỡng cho mái tóc khỏe mạnh và bóng mượt như vừa được dưỡng tại Salon Nhật về chỉ với \"0 giây chờ đợi\"!",
+            "image": "../images/products/daugoitsubaki.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Nước Hoa Nữ Diamond Femme",
+            "cate_id": 4,
+            "price": 275000,
+            "detail": "Nước Hoa Laura Anne Diamond Cho Nữ 45ml là sản phẩm nước hoa eau de parfum cho nữ đến từ thương hiệu Laura Anne được sản xuất trực tiếp tại Việt Nam với nguồn nguyên liệu nhập khẩu theo công nghệ Singapore. Thiết kế cổ điển, thanh lịch sẽ giúp bạn lưu lại trên người hương thơm đầy quyến rũ, đầy mê hoặc, giúp bạn tự tin hơn khi giao tiếp. Nằm trong bộ sưu tập Nước Hoa Diamond được ra đời từ nhà tạo hương hàng đầu thế giới Firmenich là chất xúc tác giúp điểm tô thần thái của bạn dù ở bất kì nơi đâu.",
+            "image": "../images/products/nuochoadiamond.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Body mist into the night",
+            "cate_id": 4,
+            "price": 150000,
+            "detail": "- Xịt Thơm Bath & Body Works Into The Night Fine Fragrance Mist là sự hòa quyện của sự tính ngọt ngào nhưng không kém phần quyến rũ bới sự pha trộn mùi hương độc đáo từ quả mọng đen, hoa nhài ban đêm cùng hổ phách. ",
+            "image": "../images/products/bodymistintothenight.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Sữa tắm Grace and Grow",
+            "cate_id": 5,
+            "price": 190000,
+            "detail": "Sữa tắm trắng da Grace and Glow Black Opium Brightening Body Wash 400ml với hương thơm sang trọng của nước hoa cao cấp, được bào chế như một loại xà phòng tắm dưỡng thể giúp cơ thể sáng hơn, mềm mại và được dưỡng ẩm. Ngăn ngừa mụn trên cơ thể Bảo vệ cơ thể khỏi ô nhiễm, ánh nắng mặt trời và độc tố, có Glutathione hoạt động như một chất làm sáng da để cải thiện độ đàn hồi của da",
+            "image": "../images/products/suatamgraceandgrow.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Sữa tắm Enchanteur",
+            "cate_id": 5,
+            "price": 200000,
+            "detail": "Sữa tắm Enchanteur với hương nước hoa đặc trưng từ Pháp, tạo sự lôi cuốn thư giãn cho người sử dụng, giàu dưỡng chất từ kem, sữa tươi và vitamin B3 bổ sung độ ẩm cho da, giúp da luôn sáng hồng tự nhiên. ",
+            "image": "../images/products/suatamenchanteur.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Dầu gội TRESemmé",
+            "cate_id": 3,
+            "price": 304000,
+            "detail": " Tóc bạn không còn suôn mượt vào nếp sau cả ngày dài hay dù có thử mọi cách nhưng cũng không thể đẹp như ở salon? Bạn có biết, để sở hữu một mái tóc vào nếp suôn mượt suốt cả ngày, tóc mình phải được nuôi dưỡng mềm mượt ngay từ sâu bên trong? Và một trong những liệu pháp hiệu quả nhất chính là bổ sung protein Keratin & tinh dầu dưỡng tóc giúp thấm sâu & nuôi dưỡng từng sợi tóc. Thay vì phải ra salon thường xuyên mất nhiều thời gian và chi phí, TRESemmé đem lại cho bạn bí quyết dưỡng tóc từ các chuyên gia tạo mẫu tóc trên thế giới, cho mái tóc của bạn đẹp chuẩn salon ngay tại nhà: COMBO GỘI-XẢ TRESEMMÉ KERATIN SMOOTH!  ",
+            "image": "../images/products/daugoitresemme.png"
+        },
+        {
+            "id": 12,
+            "name": "Dầu gội Rejoice",
+            "cate_id": 3,
+            "price": 99000,
+            "detail": " Rejoice là thương hiệu chăm sóc tóc thuộc tập đoàn P&G. Dòng sản phẩm dầu gội Rejoice được thiết kế với nhiều phân loại khác nhau như sạch gàu, ngăn ngừa tóc rụng, khô rối... mang đến cho bạn một mái tóc mượt mà và lưu giữ hương thơm bền lâu. ",
+            "image": "../images/products/daugoirejoice.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Sữa tắm LifeBuoy Matcha ",
+            "cate_id": 5,
+            "price": 190000,
+            "detail": "à nhãn hiệu sạch khuẩn số 1 thế giới.  Sữa tắm detox bảo vệ khỏi vi khuẩn Lifebuoy matcha và khổ qua 782ml có chứa Matcha, khổ qua giúp bảo vệ khỏi 10 vi khuẩn, ngăn ngừa ô nhiễm. Sữa tắm phù hợp với mọi loại da",
+            "image": "../images/products/suatamlifebuoy.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Sửa rữa mặt Cetaphil ",
+            "cate_id": 2,
+            "price": 389000,
+            "detail": "với các thành phần dịu lành giúp làm sạch da một cách dịu nhẹ cùng với công thức khoa học mới từ sự kết hợp 3 thành phần lành tính Niacinamide (Vitamin B3), Panthenol (Pro-vitamin B5) và Glycerin đã tạo ra cơ chế đặc biệt giúp thúc đẩy quá trình sản sinh Ceramides tự nhiên của da và tổng hợp Fillaggrin có công dụng bảo vệ hàng rào tự nhiên của da giúp cải thiện khả năng phục hồi của làn da nhạy cảm ",
+            "image": "../images/products/srmcatephil.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Sửa rữa mặt Heshi ",
+            "cate_id": 2,
+            "price": 499000,
+            "detail": "với các ưu điểm vượt trội, thiết kế đầu cọ silicon bằng nhựa mềm dẻo, bọt siêu mịn len lỏi vào sâu lỗ chân lông, cuốn trôi hết tất cả các bã nhờn, bụi bẩn, giúp da sạch khoẻ và hấp thu tốt các dưỡng chất. Chứa hoạt chất Betaine giúp giữ ẩm và bảo vệ những men có lợi trên da.",
+            "image": "../images/products/srmheshi.jpg"
+        }
+
+    ], 
+    "orders": [
+        {
+            "id": 1,
+            "customer_name": "Hương Giang",
+            "customer_address": "121 - Nguyễn Viết Xuân",
+            "customer_email": "nguyenthihuonggiangqb3174@gmail.com",
+            "customer_phone_number": "0858328685",
+            "created_date": "15/01/2024",
+            "status": "Khách hàng thân thiết"
+        },
+        {
+            "id": 2,
+            "customer_name": "Giang Nguyễn",
+            "customer_address": "126 - Đinh Đức Thiện",
+            "customer_email": "giangnthpd08459@fpt.edu.vn",
+            "customer_phone_number": "0858328685",
+            "created_date": "17/01/2024",
+            "status": "Khách hàng mới"
+        }
+    ],
+    "order_details": [
+        {
+            "order_id": 1,
+            "product_id": 8,
+            "quantity": 1,
+            "unit_price": 150000
+        },
+        {
+            "order_id": 2,
+            "product_id": 9,
+            "quantity": 1,
+            "unit_price": 190000
+        }
+    ]
+}
